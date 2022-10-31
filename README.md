@@ -19,13 +19,6 @@
 
  
 
- ## ⭐ My projects
- 
-<!---* [will be added soon here]📌 -->
-<!---* [Many of my projects are private because of the data protection policies of companies I worked.]📌 -->
- 
-
-
 ## 📬 Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/cem-karatastan-66a322b7/)&nbsp;
@@ -34,6 +27,5 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CemKaratastan&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CemKaratastan&theme=tokyonight" />
 </p>
