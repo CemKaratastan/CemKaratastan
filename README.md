@@ -6,9 +6,9 @@
 
 - 🔭 Master of Science right now. I'm documenting my #66DaysOfMLOps journey...
 - 🧙‍♂️ I'm Machine Learning Engineer at Siemens Healthineers, Erlangen/ Germany. 
-- 🎯 I’m currently learning Real-world Pattern Recognition and DL Operations
-- 👯 Fun fact: I love to dance and meet new people
-- 🥅 2022 Goals: Contribute more to Open Source and Communities;
+- 🎯 I’m currently working Real-world Pattern Recognition, Machine Learning & Deep Learning Algorithms !
+- 👯 Fun fact: I love to travel and meet new people
+- 🥅 2023 Goals: Contribute more to Open Source and Communities;
 
 &emsp;&emsp;&emsp;&ensp;
 [<img width="30px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/dvc.svg"/>](https://dvc.org)  [<img width="30px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/57668889?s=200&v=4"/>](https://dagshub.com) 
